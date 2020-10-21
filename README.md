@@ -1,6 +1,6 @@
 # Wiki_bot
 
-This is a very simple python bot that reads you article summeries from wikipedia using an API wrapper, i made this out of boredom but feel free to fork it (tbh i'd really appreciate it if you do), i'm gonna reference the resources i used because they're super awesome and very well documented
+This is a very simple python bot that reads you article summeries from wikipedia using an API wrapper, i'm gonna reference the resources i used because they're super awesome and very well documented
 
 # Current features
 Reads out summeries of wikipedia articles as provided by the user
